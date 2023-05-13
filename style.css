@@ -77,7 +77,7 @@ navbar ul li a.active {
 
 #home::before {
     content: " ";
-    background: url('/imag/4cd1d7939d02b81093374c5e16833c7e.jpg') no-repeat center center/cover;
+    background: url('4cd1d7939d02b81093374c5e16833c7e.jpg') no-repeat center center/cover;
     position: absolute;
     height: 660px;
     width: 100%;
