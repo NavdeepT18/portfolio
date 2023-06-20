@@ -1,2 +1,2 @@
 # portfolio
-Just a showcase of my skills which I have learnt recently.
+A portfolio webisite made with HTML and CSS
